@@ -78,11 +78,12 @@
                     title: 'Sharp SH530U',
                     image: 'http://mdata.yandex.net/i?path=b1119145405_img_id7474251838115767025.jpg',
                     price: '***',
-                    url: '/'
+                    url: '/',
+                    new: true
                 },
                 {
                     title: 'Samsung Galaxy S III 16Gb',
-                    image: '',
+                    image: 'http://mdata.yandex.net/i?path=b0503234231_img_id4954748565558111178.jpg',
                     price: '180',
                     url: '/'
                 }
