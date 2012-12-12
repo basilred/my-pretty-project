@@ -13,6 +13,7 @@
     content:[
         {
             block: 'header',
+            mix: [ { block: 'box' } ],
             content: {
                 block: 'layout',
                 content: [

@@ -8,6 +8,7 @@ block goods {
 			content.push({
 				elem: 'item',
 				mods: mods,
+				mix: [ { block: 'box' } ],
 				content: [
 					{
 						elem: 'title',
