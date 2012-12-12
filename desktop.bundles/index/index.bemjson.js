@@ -13,8 +13,9 @@
     content:[
         {
             block: 'header',
-            mix: [ { block: 'box' } ],
-            content: {
+            mix: [ { block: 'box', js: true } ],
+            content: [
+            {
                 block: 'layout',
                 content: [
                     {
@@ -52,7 +53,12 @@
                         }
                     }
                 ]
+            },
+            {
+                block: 'box',
+                elem: 'switcher'
             }
+            ]
         },
         {
             block: 'goods',
