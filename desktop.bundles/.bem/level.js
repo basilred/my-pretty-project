@@ -10,7 +10,8 @@ exports.getConfig = function() {
             '../../bem-bl/blocks-desktop',
             '../../bemhtml/common.blocks',
             '../../common.blocks',
-            '../../desktop.blocks'
+            '../../desktop.blocks',
+            '../../john-lib/blocks/'
         ])
     });
 
